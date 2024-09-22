@@ -1,6 +1,7 @@
-Getting up and running with node and express.  
+Node and express basics.
 
-https://www.digitalocean.com/community/tutorials/nodejs-express-basics  
+<https://www.digitalocean.com/community/tutorials/nodejs-express-basics>
 
-Start the server via:  
-$> node server.js
+Instructions:
+
+- node server.js
